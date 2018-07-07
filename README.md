@@ -8,4 +8,5 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 The dataset is in the text format and we have used various machine learning algorithms like Random Forest Regressor to train our and make the classification about the tumour.
 
 FUTURE ASPECTS:
-   In future this model can be improved using various advanced machine learning algorithms like Support Vector Machine(SVM) to improve the model accuracy.
+   This model could be more effective if we can predict the cancer from its scanned image directly. This could be done by using convolutional neural networks and deep learning methods. 
+   But due to lack of dataset and computaional resources we could not achieve the same. Hope to do the same in the future.
